@@ -14,7 +14,7 @@ Below is the link for dataset: <br>
 (https://www.kaggle.com/datasets/grassknoted/asl-alphabet) 
 
 <h3>Approach</h3>
-The model created uses transfer learning. <br>
+Here we used and applied the concept of transfer learning. <br>
 A pre trained VGG16 model is used to create the structure and then conolution layers are changed accordingly.<br>
 
 <h3>Result Snapshots</h3>
