@@ -6,9 +6,6 @@ The dataset contains: <br>
 -These 3 classes are very helpful in real-time applications, and classification.<br>
 -The test data set contains a mere 29 images, to encourage the use of real-world test images.<br>
 
-<h3> </h3>
-We did this project to understand and create an environment for the deaf where 
-
 <h3>Dataset Link</h3>
 Below is the link for dataset: <br>
 (https://www.kaggle.com/datasets/grassknoted/asl-alphabet) 
