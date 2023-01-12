@@ -17,4 +17,8 @@ We tested the model on test dataset and then it was put to real time usage and w
 The webcam captured the users hand notation and predicted the symbol shown by the user. <br>
 
 <h3>Result Snapshots</h3>
-
+<img
+  src="Letter K.png"
+  alt="Alt text"
+  title="Letter K"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
