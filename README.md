@@ -17,3 +17,4 @@ We tested the model on test dataset and then it was put to real time usage and w
 The webcam captured the users hand notation and predicted the symbol shown by the user. <br>
 
 <h3>Result Snapshots</h3>
+![Letter D](https://user-images.githubusercontent.com/71974480/212040897-7e17d1bc-1360-4021-b07b-8ed4e1885bf0.png)
