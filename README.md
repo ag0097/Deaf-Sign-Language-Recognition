@@ -21,4 +21,5 @@ The webcam captured the users hand notation and predicted the symbol shown by th
   src="Letter K.png"
   alt="Alt text"
   title="Letter K"
+  width="400"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
